@@ -4,12 +4,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
 <title>你好 | bangbuug的小站</title>
 <meta name="description" content="温故而知新" />
-<link rel="shortcut icon" href="https://bangbuug.github.io/media/images/favicon.ico?v=1576056496929">
+<link rel="shortcut icon" href="https://bangbuug.github.io/media/images/favicon.ico?v=1576058145704">
 <link rel="stylesheet" href="https://bangbuug.github.io/styles/main.css">
 <script src="https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://bangbuug.github.io/media/js/bigfoot.min.js"></script>
 
     <script src="https://cdn.staticfile.org/prism/1.17.1/prism.min.js"></script>
+    
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/leancloud-storage/dist/av-min.js"></script>
     
   </head>
   <body>
@@ -63,7 +65,25 @@
       </div>
       <div id="comments" class="doc_comments">
               
-                <p>请到客户端“主题--自定义配置--valine”中填入ID和KEY</p>
+                <script type="text/javascript" src="https://cdn.staticfile.org/valine/1.3.10/Valine.min.js"></script>
+
+<script>
+    var valine = new Valine();
+    valine.init({
+        el: '#comments',
+        appId: 'LvQ64CV8WxY7IgaXVIDVvKGS-gzGzoHsz' ,
+        appKey: 'oQXdhG9M4tddyPISlPRevYgq',
+        pageSize: 30
+    })
+
+jQuery(document).ready(function($){
+    $("#comments").on('click', 'span.vat',function(){
+        $(this).parent('div.vmeta').next("div.vcontent").after($("div.vwrap"));
+        $('textarea#veditor').focus();
+    })
+})
+</script>
+
               
       </div>
   </div>
