@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bangbuug.github.io</id>
-    <title>bangbuug的小站</title>
-    <updated>2019-12-11T10:05:05.970Z</updated>
+    <title>bangbuug的力学小站</title>
+    <updated>2019-12-11T11:02:07.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bangbuug.github.io"/>
     <link rel="self" href="https://bangbuug.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>lll</subtitle>
     <logo>https://bangbuug.github.io/images/avatar.png</logo>
     <icon>https://bangbuug.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, bangbuug的小站</rights>
+    <rights>All rights reserved 2019, bangbuug的力学小站</rights>
     <entry>
         <title type="html"><![CDATA[你好]]></title>
         <id>https://bangbuug.github.io/post/ni-hao</id>
