@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bangbuug.github.io</id>
     <title>Gridea</title>
-    <updated>2019-12-11T07:53:58.130Z</updated>
+    <updated>2019-12-11T07:55:12.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bangbuug.github.io"/>
     <link rel="self" href="https://bangbuug.github.io/atom.xml"/>
@@ -10,4 +10,35 @@
     <logo>https://bangbuug.github.io/images/avatar.png</logo>
     <icon>https://bangbuug.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://bangbuug.github.io/post/about</id>
+        <link href="https://bangbuug.github.io/post/about">
+        </link>
+        <updated>2019-01-25T13:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>本站是博主用来平时用来记录一些学习笔记，以及个人见解的个人博客。</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>博主是来自于大阪大学（日本）的一名研二学生</p>
+<ul>
+<li>研究方向：生物断裂力学</li>
+<li>编程语言：Python + Fortran</li>
+</ul>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>喜欢的事情多，精通的事情少</p>
+<ul>
+<li>足球（养生）</li>
+<li>摄影（键盘摄影家）</li>
+<li>游戏（新手村常住民）</li>
+</ul>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<ul>
+<li>email1: <em>ououo.kou #at# outlook #dot# com</em></li>
+<li>email2: <em>yexy #at# md.ams.eng.osaka-u #dot# ac #dot# jp</em></li>
+</ul>
+]]></content>
+    </entry>
 </feed>
