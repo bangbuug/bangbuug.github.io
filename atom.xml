@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bangbuug.github.io</id>
     <title>Ye Xiaoyan的力学小站</title>
-    <updated>2021-03-23T04:43:11.817Z</updated>
+    <updated>2021-03-23T04:55:02.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bangbuug.github.io"/>
     <link rel="self" href="https://bangbuug.github.io/atom.xml"/>
@@ -11,6 +11,31 @@
     <logo>https://bangbuug.github.io/images/avatar.png</logo>
     <icon>https://bangbuug.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Ye Xiaoyan的力学小站</rights>
+    <entry>
+        <title type="html"><![CDATA[2020街拍]]></title>
+        <id>https://bangbuug.github.io/post/2020-jie-pai/</id>
+        <link href="https://bangbuug.github.io/post/2020-jie-pai/">
+        </link>
+        <updated>2021-03-23T06:44:45.000Z</updated>
+        <content type="html"><![CDATA[<p>小野原街拍 1<br>
+<img src="https://bangbuug.github.io/post-images/1616474859400.jpg" alt="" loading="lazy"></p>
+<hr>
+<p>小野原街拍 2<br>
+<img src="https://bangbuug.github.io/post-images/1616474962936.jpg" alt="" loading="lazy"></p>
+<hr>
+<p>吹田街拍 1<br>
+<img src="https://bangbuug.github.io/post-images/1616474991417.jpg" alt="" loading="lazy"></p>
+<hr>
+<p>吹田街拍 2<br>
+<img src="https://bangbuug.github.io/post-images/1616475006450.jpg" alt="" loading="lazy"></p>
+<hr>
+<p>神户街拍 1<br>
+<img src="https://bangbuug.github.io/post-images/1616475024505.jpg" alt="" loading="lazy"></p>
+<hr>
+<p>神户街拍 2<br>
+<img src="https://bangbuug.github.io/post-images/1616475036118.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[各向异性的表述]]></title>
         <id>https://bangbuug.github.io/post/anisotropic_elasticity/</id>
