@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bangbuug.github.io</id>
     <title>Ye Xiaoyan的力学小站</title>
-    <updated>2019-12-11T13:51:51.834Z</updated>
+    <updated>2021-03-23T01:16:22.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bangbuug.github.io"/>
     <link rel="self" href="https://bangbuug.github.io/atom.xml"/>
@@ -10,11 +10,11 @@
 本站是博主用来平时用来记录一些学习笔记，以及个人见解的个人博客。</subtitle>
     <logo>https://bangbuug.github.io/images/avatar.png</logo>
     <icon>https://bangbuug.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Ye Xiaoyan的力学小站</rights>
+    <rights>All rights reserved 2021, Ye Xiaoyan的力学小站</rights>
     <entry>
         <title type="html"><![CDATA[各向异性的表述]]></title>
-        <id>https://bangbuug.github.io/post/anisotropic_elasticity</id>
-        <link href="https://bangbuug.github.io/post/anisotropic_elasticity">
+        <id>https://bangbuug.github.io/post/anisotropic_elasticity/</id>
+        <link href="https://bangbuug.github.io/post/anisotropic_elasticity/">
         </link>
         <updated>2019-12-12T05:08:15.000Z</updated>
         <content type="html"><![CDATA[<h1 id="anisotropic-elasticity各向异性弹性">Anisotropic elasticity（各向异性弹性）</h1>
